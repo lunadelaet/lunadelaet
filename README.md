@@ -13,7 +13,7 @@
 Software developer who loves coding, IT and dogs!
 
 🔭 &nbsp;I'm currently working on **building applications**  
-🌱 &nbsp;I'm currently learning **IT infrastructure, operations, and system design**  
+🌱 &nbsp;I'm currently learning **IT operations, infrastructure, and system design**  
 😄 &nbsp;Pronouns: **she/her**
 
 ### 🛠️ Tech Stack
